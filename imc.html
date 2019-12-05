@@ -10,16 +10,13 @@
     }
 
     function calculaIMC(peso, altura){
-        var imc = peso / (altura * altura)
-        return imc
+        return peso / (altura * altura)
     }
-
 
     var imcFlavio = calculaIMC(73, 1.71)
     var imcAmigo = calculaIMC(68, 1.72)
+    var totalImc = imcFlavio + imcAmigo
 
-    mostra(imcAmigo)
-    mostra(imcFlavio)
-
+    mostra("A soma é " + totalImc)
 
 </script>
