@@ -1,7 +1,7 @@
 **Curso de Lógica de programação I: Os primeiros programas com Javascript e HTML**
 
 - [x] Comece a programar hoje
-- [ ] Comunique-se com o usuário
+- [x] Comunique-se com o usuário
 - [ ] Torne seu programa dinâmico com variáveis
 - [ ] Crie suas próprias funcionalidades
 - [ ] Pratique resolvendo problemas do seu dia a dia
