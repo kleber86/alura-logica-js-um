@@ -3,7 +3,7 @@
 - [x] Comece a programar hoje
 - [x] Comunique-se com o usuário
 - [x] Torne seu programa dinâmico com variáveis
-- [ ] Crie suas próprias funcionalidades
+- [x] Crie suas próprias funcionalidades
 - [ ] Pratique resolvendo problemas do seu dia a dia
 - [ ] Execute códigos diferentes dependendo da condição
 - [ ] Repita tarefas
