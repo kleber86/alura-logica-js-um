@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<script>
+    function puloLinha(){
+        document.write("<br><br><br>")
+    }
+
+    function mostra(frase){
+        document.write(frase)
+        puloLinha();
+    }
+
+    function calculaIMC(peso, altura){
+        return peso / (altura * altura)
+    }
+
+    var vitorias = parseInt(prompt("Digite um numero de vitórias"))
+    var empates = parseInt(prompt("Digite o numero de empates"))
+
+    var pontos = (vitorias * 3) + empates
+
+    mostra("Os pontos do seu time é " + pontos)
+</script>
