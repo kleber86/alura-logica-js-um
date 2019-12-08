@@ -6,6 +6,6 @@
 - [x] Crie suas próprias funcionalidades
 - [x] Pratique resolvendo problemas do seu dia a dia
 - [x] Execute códigos diferentes dependendo da condição
-- [ ] Repita tarefas
+- [x] Repita tarefas
 - [ ] Interaja de maneira diferente com o usuário
 - [ ] Trabalhe com muitos dados
