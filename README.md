@@ -7,5 +7,5 @@
 - [x] Pratique resolvendo problemas do seu dia a dia
 - [x] Execute códigos diferentes dependendo da condição
 - [x] Repita tarefas
-- [ ] Interaja de maneira diferente com o usuário
+- [x] Interaja de maneira diferente com o usuário
 - [ ] Trabalhe com muitos dados
