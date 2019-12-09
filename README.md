@@ -8,4 +8,4 @@
 - [x] Execute códigos diferentes dependendo da condição
 - [x] Repita tarefas
 - [x] Interaja de maneira diferente com o usuário
-- [ ] Trabalhe com muitos dados
+- [x] Trabalhe com muitos dados
